@@ -11,10 +11,11 @@ body {
 }
 
 header {
-    background-color: #333;
+    background-color: #ff2121;
     color: #fff;
     text-align: center;
     padding: 1rem;
+    height: 500px;
 }
 
 main {
